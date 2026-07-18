@@ -2,7 +2,7 @@ function Home (){
 
 
 
-    return <h1> Vinícius putão da barra</h1>
+    return <h1> Vinícius putão da barra  🫂​👨‍❤️‍👨​</h1>
 
 
 }
